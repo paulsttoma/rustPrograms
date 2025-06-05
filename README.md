@@ -1,1 +1,0 @@
-# These programs are not blockchain-based. They are to show proficiency in rust programming.
